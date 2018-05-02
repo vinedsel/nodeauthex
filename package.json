@@ -18,6 +18,7 @@
   "homepage": "https://github.com/vinedsel/nodeauthex#readme",
   "dependencies": {
     "ejs": "^2.5.9",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17"
   }
 }
